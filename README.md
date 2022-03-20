@@ -16,3 +16,8 @@ Kelas : TI.20.B.1<br>
 nah selanjutnya kita mendeklarasikan CCS Internal berikut umtuk tampilannya
 
 ![Gambar title HTML dasar](pictures/2.png)
+
+3. Menambahkan Inline CSS
+lalu kita menambahkan deklarasi inline CSS nah berikut tampilannya
+
+![Gambar title HTML dasar](pictures/3.png)
