@@ -26,3 +26,4 @@ lalu kita menambahkan deklarasi inline CSS. Berikut tampilannya
 setelah itu kita membuat file baru untuk mendeklarasikan css. Berikut tampilannya.
 
 ![Gambar title HTML dasar](pictures/4.png)
+
