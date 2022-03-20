@@ -13,11 +13,16 @@ Kelas : TI.20.B.1<br>
 ![Gambar title HTML dasar](pictures/1.png)
 
 2. Mendeklarasikan CCS Internal
-nah selanjutnya kita mendeklarasikan CCS Internal berikut umtuk tampilannya
+nah selanjutnya kita mendeklarasikan CCS Internal. Berikut untuk tampilannya
 
 ![Gambar title HTML dasar](pictures/2.png)
 
 3. Menambahkan Inline CSS
-lalu kita menambahkan deklarasi inline CSS nah berikut tampilannya
+lalu kita menambahkan deklarasi inline CSS. Berikut tampilannya
 
 ![Gambar title HTML dasar](pictures/3.png)
+
+4. Membuat CSS Eksternal
+setelah itu kita membuat file baru untuk mendeklarasikan css. Berikut tampilannya.
+
+![Gambar title HTML dasar](pictures/4.png)
