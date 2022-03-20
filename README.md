@@ -11,3 +11,8 @@ Kelas : TI.20.B.1<br>
 *Untuk langkah awal kita membuat dokumen HTML terlebih dahulu. Berikut tampilannya*<br>
 
 ![Gambar title HTML dasar](pictures/1.png)
+
+2. Mendeklarasikan CCS Internal
+nah selanjutnya kita mendeklarasikan CCS Internal berikut umtuk tampilannya
+
+![Gambar title HTML dasar](pictures/2.png)
