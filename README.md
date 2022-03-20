@@ -27,3 +27,7 @@ setelah itu kita membuat file baru untuk mendeklarasikan css. Berikut tampilanny
 
 ![Gambar title HTML dasar](pictures/4.png)
 
+5. Menambahkan CSS Selector
+Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file style_eksternal.css, tambahkan kode berikut
+
+![Gambar title HTML dasar](pictures/5.png)
